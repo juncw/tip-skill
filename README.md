@@ -3,6 +3,7 @@
 - [视频及矢量网站](#视频及矢量网站)
 - [免费看电影](#免费看电影)
 - [设计订阅](#设计订阅)
+- [网盘搜索pan115.com](#网盘搜索pan115.com)
 
 
 视频及图片资源
@@ -18,3 +19,6 @@
 #### 设计订阅
 [设计订阅](https://idesign.qq.com)
 ![设计订阅](https://raw.githubusercontent.com/walman6/tip-skill/master/images/2019-1-14%2012-2-12.png)
+#### 网盘搜索pan115.com
+[网盘搜索pan115.com](http://guanggua.com/)
+![网盘搜索pan115.com](https://github.com/walman6/tip-skill/blob/master/images/2019-1-14%2012-11-3.png)
